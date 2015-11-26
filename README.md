@@ -1,4 +1,4 @@
-# JOE BLOG - Child Theme of Casper
+# Joe Blog - Child Theme of Casper
 
 To download the parent theme (Casper), visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
